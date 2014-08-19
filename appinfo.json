@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "omixen@gmail.com",
+    "longName": "Gobble",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "shortName": "Gobble",
+    "uuid": "469c5493-d899-4d6b-96b6-a7b3b695a780",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
